@@ -1,7 +1,7 @@
 # IP-Address-Locator
-This is a project devloped in Python Progrmaing Language that can tract a Global ip address around the globe, and visualise on a map, with precise coordinates.
+This is a project developed in Python Programming Language that can track a Global IP address around the globe, and visualize it on a map, with precise coordinates.
 
-You can grab information like Location, Coordinates, Hosting Service and Time zone of that location.
+You can access information like Location, Coordinates, Hosting Service and Time zone of that location.
 
 Technologies used:
 * Python
