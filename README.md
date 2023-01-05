@@ -43,7 +43,7 @@ Also in case you enter an illegitimate ip, you will recive a warning message and
 
 <img width="447" alt="image" src="https://user-images.githubusercontent.com/77609727/210577897-828cf450-32a7-4cdf-a359-c66c9ae2efa6.png">
 
-You can install the executable file for this project from [here](bit.ly/3IiMeFz)
+You can install the executable file for this project from [here](https://drive.google.com/file/d/14ClCUwPtVzTBYUAI1o4ONF6cvnRqWJBA/view?usp=sharing)
 
 Hope you will like the efforts.💖
 
